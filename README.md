@@ -1,0 +1,1 @@
+A simple test of Context API in react function component
